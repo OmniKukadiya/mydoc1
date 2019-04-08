@@ -1,3 +1,7 @@
 this is new 
 my file......
+<<<<<<< HEAD
 hello from Nidhi
+=======
+Hello hii.....
+>>>>>>> pr/4
